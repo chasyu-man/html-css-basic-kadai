@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-  font-family: "Arail","meiryo",sans-serif;
+  font-family: "Arial","Meiryo",sans-serif;
   font-size: 20px;
   text-align: center;
 }
@@ -15,8 +15,7 @@ h1 {
   font-family: "Josefin Sans", sans-serif;
   font-size: 2rem;
   letter-spacing: 1.2em;
-  text-decoration: underline;
-  text-decoration-color: rgb(155, 155, 144);
+  border-bottom: 3px rgb(155, 155, 144) solid;
   text-shadow: 1px 1px 2px gray;
 }
 #basic p{
